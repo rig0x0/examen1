@@ -1,0 +1,6 @@
+com\upiiz\clientespotenciales\ClientesPotApplication.class
+com\upiiz\clientespotenciales\repository\ClientesPotRepository.class
+com\upiiz\clientespotenciales\services\FileService.class
+com\upiiz\clientespotenciales\models\ClientesPotenciales.class
+com\upiiz\clientespotenciales\controllers\ClientesPotController.class
+com\upiiz\clientespotenciales\services\ClientesPotService.class
